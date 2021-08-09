@@ -4,6 +4,8 @@
 
 <p align="center"><a href="https://www.osano.com/features/consent-management?utm_campaign=Open%20Source%20Cookie%20Consent&utm_source=github"><img width="460" src="images/cookie-consent.png"></a></p>
 
+https://betterprogramming.pub/implement-a-cookie-consent-notification-within-5-minutes-82c845c55487
+
 ## What is Cookie Consent?
 
 [Cookie Consent][cl] is a lightweight JavaScript plugin for alerting users about the use of cookies on your website.
